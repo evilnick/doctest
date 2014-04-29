@@ -1,4 +1,4 @@
 doctest
 =======
 
-staginf for emdoc
+staging for emdoc
