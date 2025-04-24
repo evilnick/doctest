@@ -1,4 +1,4 @@
 doctest
 =======
 
-staging for emdoc
+staging for emdocs.
